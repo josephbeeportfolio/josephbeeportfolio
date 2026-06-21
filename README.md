@@ -1,12 +1,11 @@
 ## Hi there 👋 My name is Joseph Bee
 Structural Engineer
 
-- 🔭 I’m currently a student at the University of California at San Diego.
+- 🔭 I’m currently a student at the University of California at San Diego
 - 🌱 I’m planning on graduating with my B.S. in June 2027 and starting my M.S. in Fall 2027 for Structural Engineering
-- 👯 I’m open to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 You cancontact me at [josephbee2004@gmail.com](url)
+- 👯 I’m open to connect and collaborate on working in the Structural Engineering field
+- 🤔 I’m looking for internships and work experience opportunities
+- 📫 You can contact me at [josephbee2004@gmail.com](url)
 <!--
 **josephbeeportfolio/josephbeeportfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
